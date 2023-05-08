@@ -17,7 +17,7 @@
 </form>
 
 <style>
-  header > h1 {
-    font-family: 'Arial Black';
+  form > input {
+    width: min(75%, 30em);
   }
 </style>
